@@ -6,7 +6,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     "baseUrl": "https://soraia.herokuapp.com",
-    "specPattern": "**/*.spec.js"
+    "specPattern": "**/*.feature.js"
   },
 
   //cypress.json became cypress.config.js
